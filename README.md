@@ -1,2 +1,2 @@
 # vou
-Treinamento da ferramenta
+Treinamento das ferramentas Git e GitHub
